@@ -1,0 +1,186 @@
+{
+    "5906501667": {
+        "avito": [
+            {
+                "id": "e2cf360d-70ed-4027-a535-7d5f08ef2dd2",
+                "params": {
+                    "brand": "chevrolet",
+                    "region": "Sterlitamak",
+                    "radius": 0,
+                    "min_price": 0,
+                    "max_price": 0,
+                    "platform": "avito"
+                },
+                "last_result_ids": [
+                    "7f015dbd-e2d7-433a-93fc-f5bc32a02dd9"
+                ],
+                "last_results": {
+                    "7f015dbd-e2d7-433a-93fc-f5bc32a02dd9": {
+                        "title": "Chevrolet Niva 1.7 MT, 2015, 140 000 км, с пробегом, цена 595 000 руб. - Автомобили в Стерлитамаке",
+                        "price": "595000 ₽",
+                        "brand": "Chevrolet",
+                        "model": "Niva",
+                        "address": null,
+                        "url": "https://www.avito.ru/sterlitamak/avtomobili/chevrolet_niva_1.7_mt_2015_140_000_km_7399122020?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJPSUY0U2tOaGJlV0FkeWpjIjt9Q6Eulj8AAAA",
+                        "date": "1 час назад"
+                    }
+                },
+                "notifications": true,
+                "created_at": "2025-06-07T16:20:23.832349",
+                "updated_at": "2025-06-10T19:57:45.135609",
+                "last_check": "2025-06-07T16:20:23.832349"
+            },
+            {
+                "id": "5cfdde60-e8ea-462f-b3f6-9799bf41727a",
+                "params": {
+                    "brand": "audi",
+                    "region": "Kirovskaya Oblast Kirov",
+                    "radius": 0,
+                    "min_price": 0,
+                    "max_price": 0,
+                    "platform": "avito"
+                },
+                "last_result_ids": [
+                    "2453865e-4ef2-469d-ad9d-a7286ce0ae9c",
+                    "02b7987a-e349-458f-a6af-63259a937875"
+                ],
+                "last_results": {
+                    "2453865e-4ef2-469d-ad9d-a7286ce0ae9c": {
+                        "title": "Audi A6 1.8 AT, 1999, 395 000 км, с пробегом, цена 305 000 руб. - Автомобили в Кирове",
+                        "price": "305000 ₽",
+                        "brand": "Audi",
+                        "model": "A6",
+                        "address": null,
+                        "url": "https://www.avito.ru/kirovskaya_oblast_kirov/avtomobili/audi_a6_1.8_at_1999_395_000_km_7400272465?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiI4Y292dXB3UVN4UVV6TTg3Ijt9KevmmT8AAAA",
+                        "date": "1 час назад"
+                    },
+                    "02b7987a-e349-458f-a6af-63259a937875": {
+                        "title": "Audi 80 2.0 MT, 1992, 430 000 км, с пробегом, цена 85 000 руб. - Автомобили в Кирове",
+                        "price": "85000 ₽",
+                        "brand": "Audi",
+                        "model": "80",
+                        "address": null,
+                        "url": "https://www.avito.ru/kirovskaya_oblast_kirov/avtomobili/audi_80_2.0_mt_1992_430_000_km_7435070188?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiI4Y292dXB3UVN4UVV6TTg3Ijt9KevmmT8AAAA",
+                        "date": "3 часа назад"
+                    }
+                },
+                "notifications": true,
+                "created_at": "2025-06-10T19:04:47.703648",
+                "updated_at": "2025-06-10T19:57:44.308318",
+                "last_check": "2025-06-10T19:04:47.703648"
+            },
+            {
+                "id": "335b8482-d412-48fd-afd5-6e538f0699c3",
+                "params": {
+                    "brand": "audi",
+                    "region": "Ufa",
+                    "radius": 0,
+                    "min_price": 0,
+                    "max_price": 0,
+                    "platform": "avito"
+                },
+                "last_result_ids": [
+                    "f302349e-4ba9-4370-a89d-eb653f162aff",
+                    "5f4d3735-6629-45f5-9140-43ad292580bd"
+                ],
+                "last_results": {
+                    "f302349e-4ba9-4370-a89d-eb653f162aff": {
+                        "title": "Audi A6 2.0 CVT, 2007, 200 000 км, с пробегом, цена 900 000 руб. - Автомобили в Уфе",
+                        "price": "900000 ₽",
+                        "brand": "Audi",
+                        "model": "A6",
+                        "address": null,
+                        "url": "https://www.avito.ru/ufa/avtomobili/audi_a6_2.0_cvt_2007_200_000_km_7412584918?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ0cUtYRGpVRm1LYzVndUFNIjt9W3WpKD8AAAA",
+                        "date": "10 часов назад"
+                    },
+                    "5f4d3735-6629-45f5-9140-43ad292580bd": {
+                        "title": "Audi Q3 2.0 AMT, 2013, 89 700 км, с пробегом, цена 1 790 000 руб. - Автомобили в Уфе",
+                        "price": "1790000 ₽",
+                        "brand": "Audi",
+                        "model": "Q3",
+                        "address": null,
+                        "url": "https://www.avito.ru/ufa/avtomobili/audi_q3_2.0_amt_2013_89_700_km_7409025833?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ0cUtYRGpVRm1LYzVndUFNIjt9W3WpKD8AAAA",
+                        "date": "13 часов назад"
+                    }
+                },
+                "notifications": true,
+                "created_at": "2025-06-10T20:19:41.796410",
+                "updated_at": "2025-06-10T20:19:41.796410",
+                "last_check": "2025-06-10T20:19:41.796410"
+            },
+            {
+                "id": "1d2d2b22-6cf9-4361-a87f-8c20fdde5b61",
+                "params": {},
+                "last_result_ids": [
+                    "89a45e6c-738e-4277-8193-432287095805",
+                    "24279e06-8696-4f29-b20d-7e21af8e9067"
+                ],
+                "last_results": {
+                    "89a45e6c-738e-4277-8193-432287095805": {
+                        "title": "Audi A6 2.0 CVT, 2007, 200 000 км, с пробегом, цена 900 000 руб. - Автомобили в Уфе",
+                        "price": "900000 ₽",
+                        "brand": "Audi",
+                        "model": "A6",
+                        "address": null,
+                        "url": "https://www.avito.ru/ufa/avtomobili/audi_a6_2.0_cvt_2007_200_000_km_7412584918?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ0cUtYRGpVRm1LYzVndUFNIjt9W3WpKD8AAAA",
+                        "date": "10 часов назад"
+                    },
+                    "24279e06-8696-4f29-b20d-7e21af8e9067": {
+                        "title": "Audi Q3 2.0 AMT, 2013, 89 700 км, с пробегом, цена 1 790 000 руб. - Автомобили в Уфе",
+                        "price": "1790000 ₽",
+                        "brand": "Audi",
+                        "model": "Q3",
+                        "address": null,
+                        "url": "https://www.avito.ru/ufa/avtomobili/audi_q3_2.0_amt_2013_89_700_km_7409025833?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ0cUtYRGpVRm1LYzVndUFNIjt9W3WpKD8AAAA",
+                        "date": "13 часов назад"
+                    }
+                },
+                "notifications": true,
+                "created_at": "2025-06-10T20:19:43.793188",
+                "updated_at": "2025-06-10T20:19:43.793188",
+                "last_check": "2025-06-10T20:19:43.793188"
+            }
+        ],
+        "autoru": [
+            {
+                "id": "49ae3d1a-1533-46d4-b634-ba0a9ac64faf",
+                "params": {
+                    "brand": "audi",
+                    "region": "Kirovskaya Oblast Kirov",
+                    "radius": 0,
+                    "min_price": 0,
+                    "max_price": 0,
+                    "platform": "autoru"
+                },
+                "last_result_ids": [
+                    "1128432181-335e351b",
+                    "1126928417-d8b4dc24"
+                ],
+                "last_results": {
+                    "1128432181-335e351b": {
+                        "title": "Audi A4 IV (B8) Рестайлинг",
+                        "price": 2350000,
+                        "brand": "Audi",
+                        "model": "A4",
+                        "address": "Киров",
+                        "url": "https://auto.ru/cars/used/sale/audi/a4/1128432181-335e351b/",
+                        "date": "19 часов назад"
+                    },
+                    "1126928417-d8b4dc24": {
+                        "title": "Audi Q3 Sportback 40 TFSI I (F3)",
+                        "price": 5600000,
+                        "brand": "Audi",
+                        "model": "Q3",
+                        "address": "Киров",
+                        "url": "https://auto.ru/cars/used/sale/audi/q3_sportback/1126928417-d8b4dc24/",
+                        "date": "15 часов назад"
+                    }
+                },
+                "notifications": false,
+                "created_at": "2025-06-09T04:07:17.119017",
+                "updated_at": "2025-06-10T19:57:39.457069",
+                "last_check": "2025-06-09T04:07:17.119017"
+            }
+        ]
+    }
+}
